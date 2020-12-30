@@ -1,30 +1,22 @@
 # Project title and description
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
-
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+A project with UCLA law school to help defendants in the Juvenile Justice system in Los Angeles County. The aim of the project is to educate youth on how to navigate the justice system in LA County. 
 
 ### Project context
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+TBD -- Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
 
 ### Technology used
 
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
+- Slack for instant message communication
+- Github & Google Docs for documentation
+- Zoom/Google Meet for weekly meetings 
 
 
+# Onboarding Process
 
-# How to contribute
-
-Explain the different ways people can contribute. For example:
-
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
-
-Remember to provide direct links to each channel.
+1. Add your info to the [team roster](https://docs.google.com/spreadsheets/d/14NiIUGaRhz34E_cTtWU-B9kFGaHt-1nSlghzhtDqbbE/edit?usp=drive_web&ouid=105806038518241181042)
+2. Create a Slack Account & Add yourself to Slack channel #youth-justice-nav on hackforla.slack.com
 
 
 
@@ -45,29 +37,17 @@ Remember to provide direct links to each channel.
 To create a new issue, please use the blank issue template (available when you click New Issue).  If you want to create an issue for other projects to use, please create the issue in your own repository and send a slack message to one of your hack night hosts with the link.
 
 
-### Working with forks and branches
-
-- Explain your guidelines here.
-
-
-### Working with pull requests and reviews
-
-- Explain your process.
-
-
-### Testing
-
-- Provide instructions.
-
-
-
 # Contact info
 
-Include at least one way (or more, if possible) to reach your team with questions or comments.
+Bonnie Wolfe - bonnie@hackforla.org. Slack: @Bonnie
+Leroy Tung - leroytung@gmail.com. Slack: @Leroy Tung
+Daniel Lee - j100892@gmail.com. Slack: @Daniel Lee
+Dean Church - paridox@hotmail.com. Slack: rankazze
+Nielsen - nielsen.hermanto@gmail.com. Slack: nielsen
 
 
 ### Licensing
 
-Include details about the project's open source status.
+We are using GNU General Public License v2.0. You can find more information on it [here](https://github.com/hackforla/YouthJusticeNav/blob/main/LICENSE).  
 
 *this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
