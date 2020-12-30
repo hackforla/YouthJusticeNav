@@ -48,8 +48,8 @@ To create a new issue, please use the blank issue template (available when you c
 - Bonnie Wolfe - bonnie@hackforla.org. Slack: @Bonnie
 - Leroy Tung - leroytung@gmail.com. Slack: @Leroy Tung
 - Daniel Lee - j100892@gmail.com. Slack: @Daniel Lee
-- Dean Church - paridox@hotmail.com. Slack: rankazze
-- Nielsen - nielsen.hermanto@gmail.com. Slack: nielsen
+- Dean Church - paridox@hotmail.com. Slack: @rankazze
+- Nielsen - nielsen.hermanto@gmail.com. Slack: @nielsen
 
 
 ### Licensing
