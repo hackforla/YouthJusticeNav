@@ -12,6 +12,12 @@ TBD -- Civic projects often exist within a larger context that may include multi
 - Github & Google Docs for documentation
 - Zoom/Google Meet for weekly meetings 
 
+## How to contribute
+
+- Join the team on Slack channel and at our weekly Wednesday night meeting at 6PM
+- To help with user research, contact TBD
+- To provide design support, contact TBD
+- To contribute to the code, contact TBD
 
 # Onboarding Process
 
@@ -39,11 +45,11 @@ To create a new issue, please use the blank issue template (available when you c
 
 # Contact info
 
-Bonnie Wolfe - bonnie@hackforla.org. Slack: @Bonnie
-Leroy Tung - leroytung@gmail.com. Slack: @Leroy Tung
-Daniel Lee - j100892@gmail.com. Slack: @Daniel Lee
-Dean Church - paridox@hotmail.com. Slack: rankazze
-Nielsen - nielsen.hermanto@gmail.com. Slack: nielsen
+- Bonnie Wolfe - bonnie@hackforla.org. Slack: @Bonnie
+- Leroy Tung - leroytung@gmail.com. Slack: @Leroy Tung
+- Daniel Lee - j100892@gmail.com. Slack: @Daniel Lee
+- Dean Church - paridox@hotmail.com. Slack: rankazze
+- Nielsen - nielsen.hermanto@gmail.com. Slack: nielsen
 
 
 ### Licensing
