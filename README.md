@@ -1,4 +1,4 @@
-# Project title and description
+# Youth Justice Nav
 
 A project with UCLA law school to help defendants in the Juvenile Justice system in Los Angeles County. The aim of the project is to educate youth on how to navigate the justice system in LA County. 
 
