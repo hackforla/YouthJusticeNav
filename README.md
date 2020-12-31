@@ -19,7 +19,7 @@ TBD -- Civic projects often exist within a larger context that may include multi
 - To provide design support, contact TBD
 - To contribute to the code, contact TBD
 
-# Onboarding Process
+## Onboarding Process
 
 1. Add your info to the [team roster](https://docs.google.com/spreadsheets/d/14NiIUGaRhz34E_cTtWU-B9kFGaHt-1nSlghzhtDqbbE/edit?usp=drive_web&ouid=105806038518241181042)
 2. Create a Slack Account & Add yourself to Slack channel #youth-justice-nav on hackforla.slack.com
