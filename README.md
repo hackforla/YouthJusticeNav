@@ -4,7 +4,7 @@ A project with UCLA law school to help defendants in the Juvenile Justice system
 
 ## Project context
 
-TBD --  Youth Justice Nav is an initiative focused on advancing the interests of justice-involved youth.
+TBD --  Youth Justice Nav is an initiative focused on advancing the interests of justice-involved youth. This project would perform research, identify best practices, and provide tools for youth to understand the court system better and be aware of what their rights are. 
 
 ## Technology used
 
