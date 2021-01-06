@@ -4,7 +4,7 @@ A project with UCLA law school to help defendants in the Juvenile Justice system
 
 ## Project context
 
-TBD --  Youth Justice Nav is an initiative focused on advancing the interests of justice-involved youth. This project would perform research, identify best practices, and provide tools for youth to understand the court system better and be aware of what their rights are. 
+YouthJusticeNav and UCLA Law School are looking to create a know your rights tool for youth and their families when interacting with the Juvenile Justice System.  The goal would be to create an interactive tool in which youth and their families can access information that is relevant to several different parts of the process when dealing with the criminal justice system from knowing your rights when you come into contact with law enforcement, to an explanation of the different types of hearings that take place, to knowing who various people in the courtroom are. 
 
 ## Technology used
 
@@ -23,9 +23,9 @@ TBD --  Youth Justice Nav is an initiative focused on advancing the interests of
 
 ## Contact info
 
-- Leroy Tung - Slack: @Leroy Tung
 - Daniel Lee - Slack: @Daniel Lee
 - Dean Church - Slack: @rankazze
+- Leroy Tung - Slack: @Leroy Tung
 - Nielsen - Slack: @nielsen
 
 ## Licensing
