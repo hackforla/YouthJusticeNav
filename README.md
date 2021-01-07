@@ -1,10 +1,10 @@
 # Youth Justice Nav
 
-A project with UCLA law school to help defendants in the Juvenile Justice system in Los Angeles County. The aim of the project is to educate youth on how to navigate the justice system in LA County. 
+A project with UCLA School of Law to help defendants in the Juvenile Justice system in Los Angeles County. The aim of the project is to educate youth on how to navigate the justice system in LA County. 
 
 ## Project context
 
-YouthJusticeNav and UCLA Law School are creating a know your rights tool for youth and their families when interacting with the Juvenile Justice System.  This interactive tool is a powerful resource for youth during the process of dealing with the criminal justice system. Learn your rights when you come into contact with law enforcement, the different types of hearings that take place, and who the various people in the courtroom are with this tool.
+YouthJusticeNav and UCLA School of Law are creating a know your rights tool for youth and their families when interacting with the Juvenile Justice System.  This interactive tool is a powerful resource for youth during the process of dealing with the criminal justice system. Learn your rights when you come into contact with law enforcement, the different types of hearings that take place, and who the various people in the courtroom are with this tool.
 
 ## Technology used
 
