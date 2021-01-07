@@ -24,7 +24,7 @@ YouthJusticeNav and UCLA School of Law are creating a know your rights tool for 
 ## Contact info
 
 - Daniel Lee - Slack: @Daniel Lee
-- Dean Church - Slack: @rankazze
+- Dean Church - Slack: @Dean Church
 - Leroy Tung - Slack: @Leroy Tung
 - Nielsen - Slack: @nielsen
 
