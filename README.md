@@ -4,7 +4,7 @@ A project with UCLA School of Law to help defendants in the Juvenile Justice sys
 
 ## Project context
 
-YouthJusticeNav and UCLA School of Law are creating a know your rights tool for youth and their families when interacting with the Juvenile Justice System.  This interactive tool is a powerful resource for youth during the process of dealing with the criminal justice system. Learn your rights when you come into contact with law enforcement, the different types of hearings that take place, and who the various people in the courtroom are with this tool. Read more about this project [here](https://docs.google.com/document/d/1NKcYSoGW2SNUrf-_osyBS9HKK7oUH7c8oQIgb5o8n2U/edit)
+YouthJusticeNav and UCLA School of Law are creating a know your rights tool for youth and their families when interacting with the Juvenile Justice System.  This interactive tool is a powerful resource for youth during the process of dealing with the criminal justice system. Learn your rights when you come into contact with law enforcement, the different types of hearings that take place, and who the various people in the courtroom are with this tool. Read more about this project [here](https://docs.google.com/document/d/1NKcYSoGW2SNUrf-_osyBS9HKK7oUH7c8oQIgb5o8n2U/edit).
 
 ## Technology used
 
