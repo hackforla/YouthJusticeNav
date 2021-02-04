@@ -14,12 +14,12 @@ YouthJusticeNav and UCLA School of Law are creating a know your rights tool for 
 
 ## Onboarding Process & How to contribute
 
-1. Create a Slack Account & Add yourself to Slack channel #youth-justice-nav on hackforla.slack.com
+1. [Join the Hack for LA Slack Workspace](https://hackforla.org/slack) & Add yourself to the Slack channel [#youth-justice-nav](https://hackforla.slack.com/archives/C01J94D6GAC) on hackforla.slack.com
 2. Slack Leroy Tung (@Leroy Tung) or Nielsen (@nielsen) your Gmail address so we can add you to the shared Google drive
 3. Fill out the [team roster](https://docs.google.com/spreadsheets/d/14NiIUGaRhz34E_cTtWU-B9kFGaHt-1nSlghzhtDqbbE/edit?usp=drive_web&ouid=105806038518241181042) after you receive access to the Google drive
-4. Slack Bonnie Wolfe (@Bonnie) the link to the team roster to be added to the Github repository
+4. Slack Leroy (@Leroy Tung) or Nielsen (@nielsen)to get invited to the team's weekly Wednesday night meeting at 6PM
 5. If you do not already have one, sign up for a [GitHub Account](https://github.com/)
-6. Slack Leroy (@Leroy Tung) or Nielsen (@nielsen)to get invited to the team's weekly Wednesday night meeting at 6PM
+6. At the meeting, ask Bonnie Wolfe to add you to the Github repository 
 
 ## Contact info
 
@@ -27,6 +27,7 @@ YouthJusticeNav and UCLA School of Law are creating a know your rights tool for 
 - Dean Church - Slack: @Dean Church 
 - Leroy Tung - Slack: @Leroy Tung
 - Nielsen - Slack: @nielsen
+- Erica - Slack: @Erica Chang
 
 ## Licensing
 
