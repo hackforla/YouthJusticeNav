@@ -25,9 +25,11 @@ YouthJusticeNav and UCLA School of Law are creating a know your rights tool for 
 
 - Daniel Lee - Slack: @Daniel Lee
 - Dean Church - Slack: @Dean Church 
+- Erica - Slack: @Erica Chang
 - Leroy Tung - Slack: @Leroy Tung
 - Nielsen - Slack: @nielsen
-- Erica - Slack: @Erica Chang
+- Olivia - Slack: @Olivia Chiong
+
 
 ## Licensing
 
