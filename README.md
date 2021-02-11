@@ -17,7 +17,7 @@ YouthJusticeNav and UCLA School of Law are creating a know your rights tool for 
 1. [Join the Hack for LA Slack Workspace](https://hackforla.org/slack) & Add yourself to the Slack channel [#youth-justice-nav](https://hackforla.slack.com/archives/C01J94D6GAC) on hackforla.slack.com
 2. Slack Leroy Tung (@Leroy Tung) or Nielsen (@nielsen) your Gmail address so we can add you to the shared Google drive
 3. Fill out the [team roster](https://docs.google.com/spreadsheets/d/14NiIUGaRhz34E_cTtWU-B9kFGaHt-1nSlghzhtDqbbE/edit?usp=drive_web&ouid=105806038518241181042) after you receive access to the Google drive
-4. Slack Leroy (@Leroy Tung) or Nielsen (@nielsen)to get invited to the team's weekly Wednesday night meeting at 7PM and Friday (bi-weekly) at 3PM
+4. Slack Leroy (@Leroy Tung) or Nielsen (@nielsen)to get invited to the team's weekly Wednesday night meeting at 7PM and Friday (bi-monthly) at 3PM
 5. If you do not already have one, sign up for a [GitHub Account](https://github.com/)
 6. At the meeting, ask Bonnie Wolfe to add you to the Github repository 
 
