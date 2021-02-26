@@ -1,6 +1,6 @@
 # Youth Justice Nav
 
-A project with UCLA School of Law to help defendants in the Juvenile Justice system in Los Angeles County. The aim of the project is to educate youth on how to navigate the justice system in LA County. 
+A project with UCLA and GGU School's of Law to help defendants in the Juvenile Justice system in Los Angeles County. The aim of the project is to educate youth on how to navigate the justice system in LA County. 
 
 ## Project context
 
