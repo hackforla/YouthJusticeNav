@@ -12,7 +12,10 @@ assignees: ''
 ANY ISSUE NUMBERS THAT ARE BLOCKERS OR OTHER REASONS WHY THIS WOULD LIVE IN THE ICEBOX
 
 ### Overview
-We need to create a research roadmap to [describe what and why]
+We need to create a research roadmap for [type of research]
+
+#### Details
+Each Research Plan fits into a Research Roadmap (e.g. If we are creating multiple research plans for the Collababthon, then the Research Roadmap document is where we decide what all the plans are and general overview.  Details are left for the Individual Research Plans).
 
 ### Action Items
 - [ ] Add milestone: [milestone#] Research Roadmap Create Wiki Page
