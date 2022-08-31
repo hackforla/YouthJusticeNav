@@ -19,7 +19,7 @@ Each Research Plan fits into a Research Roadmap (e.g. If we are creating multipl
 
 ### Action Items
 - [ ] Add milestone: [milestone#] Research Roadmap Create Wiki Page
-- [ ] Create a new page on the wiki for the roadmap called: `[type name] Research Overview` using the template for Research Roadmap
+- [ ] Create a new page on the wiki for the roadmap called: `Research: [Type of Research]` using the template for Research Roadmap
   - [ ] link it to the Research Output Overview wiki page
 - [ ] Change milestone: [milestone#] Research Roadmap Document Creation
   - [ ] Put back in Prioritized Backlog under new milestone
