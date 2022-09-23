@@ -17,17 +17,17 @@ We need to create a Research Plan for [NAME OF RESEARCH PLAN] so that [RESEARCH 
 ### Action Items
 - [ ] Update this issue to make sure it's properly categorized and easy to manage
      - [ ] Add to the Project Board (helps with Project Management overview)
-     - [ ] Add the milestone: [Research Plan Creation](https://github.com/hackforla/internship/milestone/29) (helps with prioritization)
+     - [ ] Add a milestone (helps with prioritization)
      - [ ] Add label of the correct research plan number associated with this research plan (e.g., Research: RP001) (helps you find related issues in the same workflow)
      - [ ] Edit title of issue with the correct research plan number (same as prior)
      - [ ] Edit placeholders in Overview of this issue with the relevant information in square brackets. (personalizes the issue to make it easier to read). Any place you see [replace...] replace both the text and the brackets with what it is asking for (including in the front matter above but not where it says name, but not where it says title.
 - [ ] Update this issue with the relevant Resources:
      - [ ] Go to the Research Output Overview Page (link in Resources) and find the relevant overview type wiki page. Then, change `[Wiki [TYPE] Research Overview Page]` in the Resources below with the correct wiki page of the research overview by type.
      - [ ] Go to the Research Output Overview Page again and find the relevant wiki page for this specific research plan. Then, change the `[RP__ Wiki Page]` in the Resources below with this RP's specific wiki page.
-     - [ ] Find and link the folder you are going to put your research plan in  (e.g., Research by Type>2. Intern>RP6 - Intern Intake Interviews)
+     - [ ] Find and link the folder you are going to put your research plan in  (e.g., Research by Type>2. Intern>RP6 - Week out post-event survey)
         - [ ] Go to the Google Drive's Research by Type Folder (link in Resources)
-        - [ ] Go into the relevant Type Folder (e.g., 1. Mentor, 2. Intern, etc.) 
-        - [ ] once inside, right-click on the relevant destination folder and copy the link. (e.g., RP6 - Intern Intake Interviews)
+        - [ ] Go into the relevant Type Folder (e.g., 1. Stakeholder, 2. Collabathon, etc.) 
+        - [ ] once inside, right-click on the relevant destination folder and copy the link. (e.g., RP6 - Week out post-event survey)
          - [ ] Add the Google Drive link in the Resources below with the link you just copied and revise the display text to include the Research Plan number (e.g., `Google Drive RP__ Folder` to `Google Drive RP008 Folder`)
 - [ ] Create the Research Plan Document.
      - [ ] Make a new document using the TWE Research Plan template (link in Resources). Follow the instructions in the How To Write a Research Plan guide (link in Resources) and mark your progress in this issue.
@@ -48,10 +48,10 @@ We need to create a Research Plan for [NAME OF RESEARCH PLAN] so that [RESEARCH 
 
 
 ### Resources
-- [Wiki Research Output Overview Page](https://github.com/hackforla/internship/wiki/Research-Output-Overview)
+- [Wiki Research Output Overview Page](https://github.com/hackforla/YouthJusticeNav/wiki/Research-Output-Overview)
 - [Wiki [TYPE] Research Overview Page]
 - [RP__ Wiki Page]
-- [Google Drive Research by Type Folder](https://drive.google.com/drive/folders/1f5Qgq-ikT_UwcgRBuoBamqY0Wacsg9f5?usp=sharing)
+- [Google Drive Research by Type Folder](https://drive.google.com/drive/u/0/folders/1duz_aeeDNtozbDSrDsZ8tl6tLLBHmcge)
 - [Google Drive RP__ Folder]
-- [Research Plan Template](https://docs.google.com/document/d/1SDW6n086PnSrrVSmPgQZWhlkz5_yC70vDvp7Lx7u0Wo/template/preview)
+- [Research Plan Template](https://docs.google.com/document/d/1MRSKJcnA-PViABDzPtPIdYBslwvG70uwAAZKNggh8sU/template/preview)
 - [TWE: How to Write a Research Plan](https://docs.google.com/document/d/1Cwc0w4ZPUI8989w3jU8BW2LzLK_Tl5gHdI0VxN5ej0o/edit)
